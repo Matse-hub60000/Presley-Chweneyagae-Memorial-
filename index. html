@@ -15,16 +15,16 @@
 
   <nav>
     <ul>
-      <li><a href="#home">Home</a></li>
-      <li><a href="#about">About</a></li>
-      <li><a href="#achievements">Achievements</a></li>
-      <li><a href="#pictures">Pictures</a></li>
-      <li><a href="#videos">Videos</a></li>
+      <li><a href="home">Home</a></li>
+      <li><a href="about">About</a></li>
+      <li><a href="achievements">Achievements</a></li>
+      <li><a href="pictures">Pictures</a></li>
+      <li><a href="videos">Videos</a></li>
     </ul>
   </nav>
 
   <section id="home">
-    <h2>Home</h2>
+     <h2>Home</h2>
     <p>Welcome to the official tribute site of Presley Chweneyagae, a talented actor, leader, and inspiration to many across South Africa and the world.</p>
   </section>
 
