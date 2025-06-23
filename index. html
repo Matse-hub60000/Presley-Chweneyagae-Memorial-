@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Presley Chweneyagae Tribute</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Tribute to Presley Chweneyagae</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#achievements">Achievements</a></li>
+        <li><a href="#pictures">Pictures</a></li>
+        <li><a href="#videos">Videos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>About Presley</h2>
+    <p>Presley Chweneyagae, popularly known as Thuso "Cobra" Mokoena, is a celebrated South African actor, producer, and theatre specialist. Born on October 19, 1984, in Mafikeng, he rose to fame after starring in the Oscar-winning film <strong>Tsotsi</strong> (2005). With over 20 years of experience in the entertainment industry, Presley is a cultural icon in South Africa.</p>
+    <p>He is married to a Swazi woman and has three children. His mother, Agnes Keagile, named him after her favorite singer, Elvis Presley.</p>
+  </section>
+
+  <section id="achievements">
+    <h2>Achievements</h2>
+    <ul>
+      <li>⭐ Starred in <strong>Tsotsi</strong> (2005) – won an Oscar for Best Foreign Language Film</li>
+      <li>🏅 Won a Golden Horn Award for <strong>The River</strong></li>
+      <li>🎭 Roles in TV shows like <em>The River</em>, <em>iNumber Number</em>, and <em>90 Plein Street</em></li>
+      <li>📽️ Acted in films like <em>Mandela: Long Walk to Freedom</em> and <em>Zama Zama</em></li>
+      <li>🎗️ Founded the Presley Chweneyagae Foundation to help underprivileged communities</li>
+    </ul>
+  </section>
+
+  <section id="pictures">
+    <h2>Pictures</h2>
+    <div class="gallery">
+      <img src="https://briefly.co.za/images/18969a5b6caa4b1e.jpg" alt="Presley 1">
+      <img src="https://www.tvsa.co.za/images/actors/presley_chweneyagae.jpg" alt="Presley 2">
+    </div>
+  </section>
+
+  <section id="videos">
+    <h2>Videos</h2>
+    <div class="videos">
+      <iframe width="360" height="215" src="https://www.youtube.com/embed/_w3Ea52Fv4Y" title="Presley Interview" frameborder="0" allowfullscreen></iframe>
+      <iframe width="360" height="215" src="https://www.youtube.com/embed/M0tOfvVZk2k" title="Scene from Tsotsi" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Tribute to Presley Chweneyagae | Designed by Matseliso Sekike</p>
+  </footer>
+</body>
+</html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Presley Chweneyagae Tribute</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Tribute to Presley Chweneyagae</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#achievements">Achievements</a></li>
+        <li><a href="#pictures">Pictures</a></li>
+        <li><a href="#videos">Videos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>About Presley</h2>
+    <p>Presley Chweneyagae, popularly known as Thuso "Cobra" Mokoena, is a celebrated South African actor, producer, and theatre specialist. Born on October 19, 1984, in Mafikeng, he rose to fame after starring in the Oscar-winning film <strong>Tsotsi</strong> (2005). With over 20 years of experience in the entertainment industry, Presley is a cultural icon in South Africa.</p>
+    <p>He is married to a Swazi woman and has three children. His mother, Agnes Keagile, named him after her favorite singer, Elvis Presley.</p>
+  </section>
+
+  <section id="achievements">
+    <h2>Achievements</h2>
+    <ul>
+      <li>⭐ Starred in <strong>Tsotsi</strong> (2005) – won an Oscar for Best Foreign Language Film</li>
+      <li>🏅 Won a Golden Horn Award for <strong>The River</strong></li>
+      <li>🎭 Roles in TV shows like <em>The River</em>, <em>iNumber Number</em>, and <em>90 Plein Street</em></li>
+      <li>📽️ Acted in films like <em>Mandela: Long Walk to Freedom</em> and <em>Zama Zama</em></li>
+      <li>🎗️ Founded the Presley Chweneyagae Foundation to help underprivileged communities</li>
+    </ul>
+  </section>
+
+  <section id="pictures">
+    <h2>Pictures</h2>
+    <div class="gallery">
+      <img src="https://briefly.co.za/images/18969a5b6caa4b1e.jpg" alt="Presley 1">
+      <img src="https://www.tvsa.co.za/images/actors/presley_chweneyagae.jpg" alt="Presley 2">
+    </div>
+  </section>
+
+  <section id="videos">
+    <h2>Videos</h2>
+    <div class="videos">
+      <iframe width="360" height="215" src="https://www.youtube.com/embed/_w3Ea52Fv4Y" title="Presley Interview" frameborder="0" allowfullscreen></iframe>
+      <iframe width="360" height="215" src="https://www.youtube.com/embed/M0tOfvVZk2k" title="Scene from Tsotsi" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Tribute to Presley Chweneyagae | Designed by Matseliso Sekike</p>
+  </footer>
+</body>
+</html>
