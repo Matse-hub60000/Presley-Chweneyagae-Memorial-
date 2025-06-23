@@ -1,0 +1,83 @@
+/* Body background with image */
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1920&q=80"); /* Replace with your own image link if you want */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0;
+  color: #fff;
+}
+
+/* Header */
+header {
+  background-color: rgba(194, 24, 91, 0.9); /* Dark pink with transparency */
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Navigation bar */
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(194, 24, 91, 0.85);
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  padding: 10px;
+}
+
+/* Section box styles */
+section {
+  background-color: rgba(255, 255, 255, 0.85); /* Light white background */
+  color: #000;
+  padding: 20px;
+  margin: 20px;
+  border-left: 5px solid #C2185B;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  font-weight: bold;
+}
+
+/* Headings */
+h2 {
+  color: #C2185B;
+}
+
+/* Images */
+section img {
+  margin: 10px;
+  border: 3px solid #C2185B;
+  border-radius: 8px;
+  box-shadow: 2px 2px 10px gray;
+}
+
+/* Videos */
+iframe {
+  margin: 10px;
+  border: 3px solid #C2185B;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px gray;
+}
+
+/* Footer */
+footer {
+  background-color: rgba(194, 24, 91, 0.9);
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
