@@ -1,4 +1,4 @@
-/* Body background with image */
+hi/* Body background with image */
 body {
   font-family: Arial, sans-serif;
   background-image: url("IMG-20250623-WA0110.jpg"); /* Replace with your own image link if you want */
@@ -44,10 +44,10 @@ nav ul li a {
 /* Section box styles */
 section {
   background-color: rgba(255, 255, 255, 0.85); /* Light white background */
-  color: #000;
+  color: #ffff;
   padding: 20px;
   margin: 20px;
-  border-left: 5px solid #C2185B;
+  border-left: 5px solid #ffff;
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
   font-weight: bold;
@@ -55,13 +55,13 @@ section {
 
 /* Headings */
 h2 {
-  color: #C2185B;
+  color: #ffff;
 }
 
 /* Images */
 section img {
   margin: 10px;
-  border: 3px solid #C2185B;
+  border: 3px solid #ffff;
   border-radius: 8px;
   box-shadow: 2px 2px 10px gray;
 }
@@ -69,7 +69,7 @@ section img {
 /* Videos */
 iframe {
   margin: 10px;
-  border: 3px solid #C2185B;
+  border: 3px solid #ffff;
   border-radius: 10px;
   box-shadow: 2px 2px 10px gray;
 }
