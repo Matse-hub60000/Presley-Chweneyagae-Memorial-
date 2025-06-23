@@ -1,7 +1,7 @@
 /* Body background with image */
 body {
   font-family: Arial, sans-serif;
-  background-image: url("https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1920&q=80"); /* Replace with your own image link if you want */
+  background-image: url("IMG-20250623-WA0110.jpg"); /* Replace with your own image link if you want */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
