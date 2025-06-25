@@ -90,8 +90,12 @@ iframe {
 
 /* Footer */
 footer {
-  text-align: center;
-  padding: 15px;
-  background-color: rgba(0, 0, 0, 0.7);
+  nav ul li a {
   color: white;
+  background-color: #191970; /* midnight blue */
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 5px;
+  }
   }
