@@ -1,15 +1,15 @@
-/* Background image setup */
+/* Full-page background tribute image */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
   color: #fff;
-  background: url("IMG-20250623-WA0110.jpg") no-repeat center center fixed;
+  background: url("presley-memory.jpg") no-repeat center center fixed;
   background-size: cover;
   background-position: center;
   position: relative;
 }
 
-/* Dark overlay for readability */
+/* Dark overlay for readable text */
 body::before {
   content: "";
   position: fixed;
@@ -17,20 +17,17 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.5); /* Dark transparent layer */
+  background-color: rgba(0, 0, 0, 0.5); /* Transparent black overlay */
   z-index: -1;
 }
 
-/* Header */
+/* Header section */
 header {
-nav ul li a {
+  text-align: center;
+  padding: 30px;
+  background-color: rgba(0, 0, 0, 0.7);
   color: white;
-  background-color: #2e2e2e; /* dark gray */
-  text-decoration: none;
-  font-weight: bold;
-  padding: 10px 15px;
-  border-radius: 5px;
-}
+  font-size: 24px;
 }
 
 /* Navigation bar */
@@ -54,7 +51,7 @@ nav ul li a {
   padding: 10px;
 }
 
-/* Section content */
+/* Sections */
 section {
   background-color: rgba(255, 255, 255, 0.95);
   color: #000;
@@ -67,12 +64,12 @@ section {
   font-weight: bold;
 }
 
-/* Section headings */
+/* Headings inside sections */
 h2 {
   color: #000;
 }
 
-/* Images in sections */
+/* Images */
 section img {
   width: 100%;
   max-width: 300px;
@@ -93,11 +90,8 @@ iframe {
 
 /* Footer */
 footer {
-  nav ul li a 
+  text-align: center;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.7);
   color: white;
-  background-color: #2e2e2e; /* dark gray */
-  text-decoration: none;
-  font-weight: bold;
-  padding: 10px 15px;
-  border-radius: 5px;
-    }
+}
